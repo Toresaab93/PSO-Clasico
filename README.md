@@ -1,4 +1,4 @@
-#Particle Swarm Optimization
+##Particle Swarm Optimization
 
 Este repositorio contiene una implementación del algoritmo PSO desarrollada en MATLAB. E
 
